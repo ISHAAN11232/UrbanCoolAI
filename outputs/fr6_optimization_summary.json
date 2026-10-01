@@ -1,0 +1,10 @@
+{
+    "budget_limit_usd": 10000000.0,
+    "total_spent_usd": 9999600.0,
+    "cells_selected": 8333,
+    "avg_cooling_deg_c": 5.6401735583463335,
+    "flagged_low_conf_cells": 161,
+    "intervention_counts": {
+        "Urban Greening": 8333
+    }
+}

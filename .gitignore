@@ -1,0 +1,50 @@
+# ==========================================
+# UrbanCool AI - Root Git Ignore Rules
+# ==========================================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Python virtual environment
+venv/
+env/
+ENV/
+.venv/
+env.bak/
+venv.bak/
+
+# Node.js dependencies and build outputs
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+.npm/
+*.log
+
+# User environment and secrets
+.env
+.env.local
+.env.*.local
+*.env
+
+# IDEs & System files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Agent caches & Scratch files
+.agents/
+scratch/
+
+# Large ML models & temporary caches (optional ignore for huge binaries)
+*.pkl
+*.parquet
+*.tif
+data/raster_aligned/

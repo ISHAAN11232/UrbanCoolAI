@@ -1,0 +1,8 @@
+{
+    "best_val_mse": 4.093291282653809,
+    "best_val_rmse": 2.023188395244943,
+    "final_train_mse": 4.488991804170132,
+    "final_physics_residual": 70320.21374409864,
+    "lambda_physics": 0.0001,
+    "epochs": 15
+}
